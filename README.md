@@ -8,7 +8,7 @@
 
 ## Overview
 
-This project was developed as part of the *Programming Techniques* course at UTFPR Curitiba during the 3rd semester of the Computer Science degree. It is a 2D platformer game written in C++ that applies object-oriented programming concepts such as inheritance, polymorphism, file handling (save/load system), and game loop mechanics.
+This project was developed as part of the *Programming Techniques* course at UTFPR Curitiba during the 3rd semester of the Computer Engineering degree. It is a 2D platformer game written in C++ that applies object-oriented programming concepts such as inheritance, polymorphism, file handling (save/load system), and game loop mechanics.
 
 The game features:
 - **Custom Entities:** Unique game objects with specific behaviors.
