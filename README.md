@@ -23,7 +23,7 @@ The project was built using a custom game engine framework designed for educatio
 ## Technologies Used
 
 - **Language:** C++
-- **Graphics Library:** SFML (or SDL if used)
+- **Graphics Library:** SFML
 - **Data Serialization:** JSON
 
 ---
